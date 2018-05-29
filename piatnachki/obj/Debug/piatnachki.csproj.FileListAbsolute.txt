@@ -1,0 +1,9 @@
+D:\step\c\C#\piatnachki\piatnachki\bin\Debug\piatnachki.exe.config
+D:\step\c\C#\piatnachki\piatnachki\bin\Debug\piatnachki.exe
+D:\step\c\C#\piatnachki\piatnachki\bin\Debug\piatnachki.pdb
+D:\step\c\C#\piatnachki\piatnachki\obj\Debug\piatnachki.csprojResolveAssemblyReference.cache
+D:\step\c\C#\piatnachki\piatnachki\obj\Debug\piatnachki.Properties.Resources.resources
+D:\step\c\C#\piatnachki\piatnachki\obj\Debug\piatnachki.csproj.GenerateResource.Cache
+D:\step\c\C#\piatnachki\piatnachki\obj\Debug\piatnachki.exe
+D:\step\c\C#\piatnachki\piatnachki\obj\Debug\piatnachki.pdb
+D:\step\c\C#\piatnachki\piatnachki\obj\Debug\piatnachki.FormGame15.resources
